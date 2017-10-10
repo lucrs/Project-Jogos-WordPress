@@ -18,25 +18,7 @@
 	</div><!-- .entry-summary -->
 	<?php } else { ?>
 	<div class="entry-content">
-        <p>
-        <?php
-        echo '<h4> Titulo: ';
-        the_field('titulo_do_jogo');
-        echo '</h4>';
-        echo '<h4> Genero: ';
-        the_field('genero');
-        echo '</h4>';
-        echo '<h4> Plataforma: ';
-        the_field('plataforma');
-        echo '</h4>';
-        echo '<h4> Idioma: ';
-        the_field('idiomas');
-        echo '</h4>';
-        echo '<h4> Data de lançamento: ';
-        the_field('ano_de_lancamento');
-        echo '</h4>';
-        ?>
-        </p>
+
 		<?php the_content(bootstrapBasicMoreLinkText()); ?>
 
 		<div class="clearfix"></div>

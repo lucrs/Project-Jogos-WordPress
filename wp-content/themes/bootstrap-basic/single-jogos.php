@@ -21,7 +21,7 @@ $main_column_size = bootstrapBasicGetMainColumnSize();
 						while (have_posts()) {
 
 							the_post();
-                            echo "<div class='test'>";
+                            echo "<div class='test' style='color: gray;'>";
                             echo "<h2>"; the_title(); echo "</h2>";
                             echo "<div class='col-md-4 img'>";the_post_thumbnail(array(250,400)); echo "</div>";
 
@@ -51,5 +51,5 @@ $main_column_size = bootstrapBasicGetMainColumnSize();
 						?>
 					</main>
 				</div>
-<?php get_sidebar('right'); ?> 
+<?php get_sidebar('right-jogos'); ?>
 <?php get_footer('jogos'); ?>
