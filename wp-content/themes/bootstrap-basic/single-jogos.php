@@ -51,5 +51,5 @@ $main_column_size = bootstrapBasicGetMainColumnSize();
 						?>
 					</main>
 				</div>
-<?php get_sidebar('right-jogos'); ?>
+<?php get_sidebar('jogos'); ?>
 <?php get_footer('jogos'); ?>

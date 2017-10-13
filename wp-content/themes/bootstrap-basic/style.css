@@ -166,3 +166,48 @@ body{
 	font-size: 18px;
 	letter-spacing: 1px;
 }
+
+nav{
+	margin-top: 9px;
+	margin-bottom: 9px !important;
+
+}
+
+.navbar-nav{
+	position: absolute;
+	left: 369px;
+}
+
+
+.navbar-inverse .navbar-nav>li>a:hover{
+	color: #2196F3;
+	transition: 1s ease-out;
+}
+
+#title h2 a{
+	color: #484d69;
+}
+#title h2 a:hover{
+	color: #2196F3;
+	text-decoration: none;
+	transition: 1s ease-out;
+}
+
+@media screen and (max-width: 1192px){
+	.navbar-nav{
+		left:291px;
+
+	}
+}
+
+@media screen and (max-width: 975px){
+	.navbar-nav{
+		left: 202px;
+	}
+}
+@media screen and (max-width: 758px){
+	.navbar-nav{
+		position: inherit;
+		left:0;
+	}
+}

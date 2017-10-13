@@ -83,7 +83,7 @@ $main_column_size = bootstrapBasicGetMainColumnSize();
 						while (have_posts()) {
 							the_post();
                             echo "<div class='test' style='color: gray;'>";
-                            echo "<h2>"; the_title(); echo "</h2>";
+                            get_template_part('adicionais');
                             echo "<div class='col-md-4 img'>";the_post_thumbnail(array(250,400)); echo "</div>";
 
 							/* Include the Post-Format-specific template for the content.
@@ -109,7 +109,9 @@ $main_column_size = bootstrapBasicGetMainColumnSize();
 						<?php get_template_part('no-results', 'archive'); ?>
 
 						<?php } //endif; ?>
-					</main>
+
+
+                    </main>
 				</div>
-<?php get_sidebar('right-jogos'); ?>
+<?php get_sidebar('jogos'); ?>
 <?php get_footer('jogos'); ?>
