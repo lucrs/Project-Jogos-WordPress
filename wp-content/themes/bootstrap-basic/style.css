@@ -137,8 +137,13 @@ Required WordPress CSS
 	width: auto;
 	z-index: 100000; /* Above WP toolbar. */
 }
-.test{
-	border:2px solid #eeeeee;
+.test::before{
+	content: '';
+	display: block;
+	background-color: rgb(130, 130, 130);
+	margin: 5px auto 0 auto;
+	width: 95%;
+	height: 2px;
 }
 
 #header{
@@ -153,13 +158,13 @@ body{
 	background-color: black;
 }
 #content{
-	background-color: white;
+	background-color: rgba(14, 14, 14, 0.79);
 	padding: 0;
 	margin: 0;
 }
 
 .content-area{
-	border:2px solid #eeeeee;
+	border:2px solid rgba(238, 238, 238, 0.56);
 }
 .title_information{
 	color: #9C27B0;
@@ -177,20 +182,64 @@ nav{
 	position: absolute;
 	left: 369px;
 }
+.navbar-inverse .navbar-nav>li>a{
+	color: #F44336;
 
+}
 
 .navbar-inverse .navbar-nav>li>a:hover{
-	color: #2196F3;
+	color: #00BCD4;
 	transition: 1s ease-out;
+
+}
+
+.page-header{
+	padding-bottom: 9px;
+	margin: 40px 0 20px;
+	border-bottom: 0;
+	text-align: center;
 }
 
 #title h2 a{
-	color: #484d69;
+	color: #F44336;
+	padding-left: 15px;
 }
 #title h2 a:hover{
-	color: #2196F3;
+	color: #00BCD4;
 	text-decoration: none;
 	transition: 1s ease-out;
+}
+
+.page-title{
+	color: rgba(255, 0, 0, 0.82);
+}
+.widget-title{
+	color: rgba(255, 0, 0, 0.82);
+}
+ul li{
+	list-style: none;
+}
+#sidebar-right a{
+	color: #00BCD4;
+}
+#sidebar-right a:hover{
+	color: white;
+	border-bottom: 1px solid white;
+	text-decoration: none;
+}
+
+#site-footer{
+	background: gray;
+	font-size: 12px;
+	padding: 10px;
+	border: 0;
+}
+
+#site-footer .site-footer{
+	font-size: 23px;
+	letter-spacing: 4px;
+	position: relative;
+	left: 202px;
 }
 
 @media screen and (max-width: 1192px){
@@ -209,5 +258,16 @@ nav{
 	.navbar-nav{
 		position: inherit;
 		left:0;
+	}
+}
+
+@media screen and (max-width: 992px){
+	#site-footer .site-footer{
+		position: relative;
+		left: 0;
+		text-align: center;!important;
+	}
+	.text-right{
+		text-align: center;
 	}
 }

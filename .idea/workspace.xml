@@ -2,13 +2,57 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a204a46c-fb4c-4a3f-be33-5cc746c722ef" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/bootstrap-basic/sidebar-right-jogos.php" afterPath="$PROJECT_DIR$/wp-content/themes/bootstrap-basic/sidebar-jogos.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/bootstrap-basic/archive-jogos.php" afterPath="$PROJECT_DIR$/wp-content/themes/bootstrap-basic/archive-jogos.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/bootstrap-basic/functions.php" afterPath="$PROJECT_DIR$/wp-content/themes/bootstrap-basic/functions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/bootstrap-basic/header-jogos.php" afterPath="$PROJECT_DIR$/wp-content/themes/bootstrap-basic/header-jogos.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/bootstrap-basic/single-jogos.php" afterPath="$PROJECT_DIR$/wp-content/themes/bootstrap-basic/single-jogos.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/license.txt" afterPath="$PROJECT_DIR$/license.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-config-sample.php" afterPath="$PROJECT_DIR$/wp-config-sample.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-config.php" afterPath="$PROJECT_DIR$/wp-config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/external/wpmu-lib/license.txt" afterPath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/external/wpmu-lib/license.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/assets/css/admin/admin.css" afterPath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/assets/css/admin/admin.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/assets/css/admin/index.php" afterPath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/assets/css/admin/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/assets/css/index.php" afterPath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/assets/css/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/assets/images/index.php" afterPath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/assets/images/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/assets/index.php" afterPath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/assets/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/assets/js/admin/admin.js" afterPath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/assets/js/admin/admin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/assets/js/admin/index.php" afterPath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/assets/js/admin/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/assets/js/admin/metabox-accordion.js" afterPath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/assets/js/admin/metabox-accordion.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/assets/js/index.php" afterPath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/assets/js/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/class-easy-custom-sidebars.php" afterPath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/class-easy-custom-sidebars.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/easy-custom-sidebars.php" afterPath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/easy-custom-sidebars.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/includes/admin/class-ecs-admin-controller.php" afterPath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/includes/admin/class-ecs-admin-controller.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/includes/admin/class-ecs-admin.php" afterPath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/includes/admin/class-ecs-admin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/includes/admin/class-ecs-ajax.php" afterPath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/includes/admin/class-ecs-ajax.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/includes/admin/index.php" afterPath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/includes/admin/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/includes/admin/walker/class-ecs-walker-checklist.php" afterPath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/includes/admin/walker/class-ecs-walker-checklist.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/includes/admin/walker/class-ecs-walker-edit.php" afterPath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/includes/admin/walker/class-ecs-walker-edit.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/includes/admin/walker/index.php" afterPath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/includes/admin/walker/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/includes/frontend/class-ecs-frontend.php" afterPath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/includes/frontend/class-ecs-frontend.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/includes/frontend/class-ecs-posttype.php" afterPath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/includes/frontend/class-ecs-posttype.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/includes/frontend/class-ecs-widget-areas.php" afterPath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/includes/frontend/class-ecs-widget-areas.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/includes/frontend/index.php" afterPath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/includes/frontend/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/includes/index.php" afterPath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/includes/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/index.php" afterPath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/languages/index.php" afterPath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/languages/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/readme.txt" afterPath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/readme.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/uninstall.php" afterPath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/uninstall.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/views/admin-page/advanced-screen.php" afterPath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/views/admin-page/advanced-screen.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/views/admin-page/create-screen.php" afterPath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/views/admin-page/create-screen.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/views/admin-page/dialog-deleted.php" afterPath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/views/admin-page/dialog-deleted.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/views/admin-page/dialog-updated.php" afterPath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/views/admin-page/dialog-updated.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/views/admin-page/edit-screen.php" afterPath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/views/admin-page/edit-screen.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/views/admin-page/index.php" afterPath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/views/admin-page/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/views/admin-page/manage-control-form.php" afterPath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/views/admin-page/manage-control-form.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/views/admin-page/manage-screen.php" afterPath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/views/admin-page/manage-screen.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/views/admin-page/nonces.php" afterPath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/views/admin-page/nonces.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/views/admin-page/page-end.php" afterPath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/views/admin-page/page-end.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/views/admin-page/page-start.php" afterPath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/views/admin-page/page-start.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/views/admin-page/tabs.php" afterPath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/views/admin-page/tabs.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/views/index.php" afterPath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/views/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/vipers-video-quicktags-migrator/readme.txt" afterPath="$PROJECT_DIR$/wp-content/plugins/vipers-video-quicktags-migrator/readme.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/vipers-video-quicktags-migrator/vipers-video-quicktags-migrator.php" afterPath="$PROJECT_DIR$/wp-content/plugins/vipers-video-quicktags-migrator/vipers-video-quicktags-migrator.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/blogdolucas/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/blogdolucas/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/bootstrap-basic/adicionais.php" afterPath="$PROJECT_DIR$/wp-content/themes/bootstrap-basic/adicionais.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/bootstrap-basic/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/bootstrap-basic/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-includes/images/crystal/license.txt" afterPath="$PROJECT_DIR$/wp-includes/images/crystal/license.txt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,62 +67,11 @@
       <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/bootstrap-basic/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="637">
-              <caret line="90" column="36" lean-forward="false" selection-start-line="90" selection-start-column="36" selection-end-line="90" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header-jogos.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/bootstrap-basic/header-jogos.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="668">
-              <caret line="49" column="61" lean-forward="true" selection-start-line="49" selection-start-column="61" selection-end-line="49" selection-end-column="61" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sidebar-jogos.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/bootstrap-basic/sidebar-jogos.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="42" lean-forward="false" selection-start-line="0" selection-start-column="42" selection-end-line="0" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="archive-jogos.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/bootstrap-basic/archive-jogos.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="379">
-              <caret line="85" column="57" lean-forward="false" selection-start-line="85" selection-start-column="57" selection-end-line="85" selection-end-column="57" />
+            <state relative-caret-position="1581">
+              <caret line="97" column="0" lean-forward="false" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
               <folding>
-                <marker date="1507877277864" expanded="true" signature="2600:2612" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="adicionais.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/bootstrap-basic/adicionais.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="9" lean-forward="false" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="single-jogos.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/bootstrap-basic/single-jogos.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="736">
-              <caret line="53" column="19" lean-forward="false" selection-start-line="53" selection-start-column="19" selection-end-line="53" selection-end-column="19" />
-              <folding>
-                <marker date="1507867762295" expanded="true" signature="542:554" ph="..." />
+                <marker date="1507863536000" expanded="true" signature="1908:2357" ph="..." />
+                <marker date="1507863536000" expanded="true" signature="1994:2357" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -94,15 +87,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="content-jogos.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/bootstrap-basic/content-jogos.php">
+      <file leaf-file-name="footer-jogos.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/bootstrap-basic/footer-jogos.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="944">
-              <caret line="56" column="35" lean-forward="false" selection-start-line="56" selection-start-column="27" selection-end-line="56" selection-end-column="35" />
-              <folding>
-                <marker date="1507617675521" expanded="true" signature="948:964" ph="..." />
-                <marker date="1507617675521" expanded="true" signature="1332:1348" ph="..." />
-              </folding>
+            <state relative-caret-position="153">
+              <caret line="13" column="51" lean-forward="false" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -110,8 +100,18 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/bootstrap-basic/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1168">
-              <caret line="183" column="28" lean-forward="false" selection-start-line="183" selection-start-column="28" selection-end-line="183" selection-end-column="28" />
+            <state relative-caret-position="657">
+              <caret line="225" column="17" lean-forward="false" selection-start-line="225" selection-start-column="17" selection-end-line="225" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/bootstrap-basic/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -206,8 +206,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -271,6 +271,32 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="bootstrap-basic" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wordpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wordpress" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bootstrap-basic" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -395,13 +421,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39172000" />
+    <option name="totallyTimeSpent" value="41295000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.122068234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12313433" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -412,12 +438,22 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.122068234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -434,23 +470,11 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wp-config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1258">
-          <caret line="91" column="36" lean-forward="false" selection-start-line="91" selection-start-column="36" selection-end-line="91" selection-end-column="36" />
-          <folding>
-            <element signature="e#6#463#0#PHP" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/bootstrap-basic/single-jogos.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding>
-            <marker date="1507867762295" expanded="true" signature="542:554" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -458,7 +482,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4590">
           <caret line="274" column="38" lean-forward="false" selection-start-line="274" selection-start-column="38" selection-end-line="274" selection-end-column="38" />
-          <folding />
+          <folding>
+            <marker date="1507863536000" expanded="true" signature="1908:2357" ph="..." />
+            <marker date="1507863536000" expanded="true" signature="1994:2357" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -474,9 +501,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="731">
           <caret line="47" column="37" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="47" selection-end-column="37" />
-          <folding>
-            <marker date="1507867762295" expanded="true" signature="542:554" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -499,9 +524,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1241">
           <caret line="77" column="30" lean-forward="true" selection-start-line="77" selection-start-column="30" selection-end-line="77" selection-end-column="30" />
-          <folding>
-            <marker date="1507877277864" expanded="true" signature="2600:2612" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -509,9 +532,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="20" column="51" lean-forward="true" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
-          <folding>
-            <element signature="e#6#117#0#PHP" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -527,9 +548,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1258">
           <caret line="91" column="36" lean-forward="false" selection-start-line="91" selection-start-column="36" selection-end-line="91" selection-end-column="36" />
-          <folding>
-            <element signature="e#6#463#0#PHP" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -545,7 +563,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4590">
           <caret line="274" column="38" lean-forward="false" selection-start-line="274" selection-start-column="38" selection-end-line="274" selection-end-column="38" />
-          <folding />
+          <folding>
+            <marker date="1507863536000" expanded="true" signature="1908:2357" ph="..." />
+            <marker date="1507863536000" expanded="true" signature="1994:2357" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -576,9 +597,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="901">
           <caret line="57" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="110" selection-end-column="29" />
-          <folding>
-            <marker date="1507877277864" expanded="true" signature="2600:2612" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -586,9 +605,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="20" column="51" lean-forward="true" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
-          <folding>
-            <element signature="e#6#117#0#PHP" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -604,9 +621,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1258">
           <caret line="91" column="36" lean-forward="false" selection-start-line="91" selection-start-column="36" selection-end-line="91" selection-end-column="36" />
-          <folding>
-            <element signature="e#6#463#0#PHP" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -622,9 +636,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="32" column="55" lean-forward="false" selection-start-line="26" selection-start-column="24" selection-end-line="41" selection-end-column="0" />
-          <folding>
-            <marker date="1507867762295" expanded="true" signature="542:554" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -661,14 +673,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/bootstrap-basic/footer-jogos.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="13" column="51" lean-forward="false" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/bootstrap-basic/home-jogos.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -681,9 +685,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1258">
           <caret line="91" column="36" lean-forward="false" selection-start-line="91" selection-start-column="36" selection-end-line="91" selection-end-column="36" />
-          <folding>
-            <element signature="e#6#463#0#PHP" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -691,9 +692,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1105">
           <caret line="65" column="47" lean-forward="false" selection-start-line="65" selection-start-column="40" selection-end-line="65" selection-end-column="47" />
-          <folding>
-            <element signature="e#6#117#0#PHP" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -745,14 +744,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/bootstrap-basic/sidebar-right-jogos.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="42" lean-forward="false" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/bootstrap-basic/sidebar-right-jogos.php" />
     <entry file="file://$PROJECT_DIR$/wp-content/themes/bootstrap-basic/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="651">
@@ -787,9 +779,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/bootstrap-basic/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="637">
-          <caret line="90" column="36" lean-forward="false" selection-start-line="90" selection-start-column="36" selection-end-line="90" selection-end-column="36" />
-          <folding />
+        <state relative-caret-position="1581">
+          <caret line="97" column="0" lean-forward="false" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
+          <folding>
+            <marker date="1507863536000" expanded="true" signature="1908:2357" ph="..." />
+            <marker date="1507863536000" expanded="true" signature="1994:2357" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -809,21 +804,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/bootstrap-basic/content.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/bootstrap-basic/single-jogos.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="736">
           <caret line="53" column="19" lean-forward="false" selection-start-line="53" selection-start-column="19" selection-end-line="53" selection-end-column="19" />
-          <folding>
-            <marker date="1507867762295" expanded="true" signature="542:554" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -831,9 +816,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="379">
           <caret line="85" column="57" lean-forward="false" selection-start-line="85" selection-start-column="57" selection-end-line="85" selection-end-column="57" />
-          <folding>
-            <marker date="1507877277864" expanded="true" signature="2600:2612" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -841,10 +824,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="944">
           <caret line="56" column="35" lean-forward="false" selection-start-line="56" selection-start-column="27" selection-end-line="56" selection-end-column="35" />
-          <folding>
-            <marker date="1507617675521" expanded="true" signature="948:964" ph="..." />
-            <marker date="1507617675521" expanded="true" signature="1332:1348" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -856,10 +836,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/bootstrap-basic/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/bootstrap-basic/content.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/bootstrap-basic/footer-jogos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="13" column="51" lean-forward="false" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/bootstrap-basic/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1168">
-          <caret line="183" column="28" lean-forward="false" selection-start-line="183" selection-start-column="28" selection-end-line="183" selection-end-column="28" />
+        <state relative-caret-position="657">
+          <caret line="225" column="17" lean-forward="false" selection-start-line="225" selection-start-column="17" selection-end-line="225" selection-end-column="17" />
           <folding />
         </state>
       </provider>
