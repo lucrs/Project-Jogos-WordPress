@@ -2,189 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a204a46c-fb4c-4a3f-be33-5cc746c722ef" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/css/cs-cloning.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/css/cs-cloning.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/css/cs-scan.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/css/cs-scan.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/css/cs-visibility.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/css/cs-visibility.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/css/cs.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/css/cs.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/customsidebars.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/img/devman.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/img/frontpage-info.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/img/hand-with-heart.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/img/heart.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/img/stripes.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/class-custom-sidebars-checkup-notification.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/class-custom-sidebars-cloning.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/class-custom-sidebars-editor.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/class-custom-sidebars-explain.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/class-custom-sidebars-export.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/class-custom-sidebars-replacer.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/class-custom-sidebars-visibility.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/class-custom-sidebars-widgets.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/class-custom-sidebars.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/external/wdev-frash/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/external/wdev-frash/admin.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/external/wdev-frash/admin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/external/wdev-frash/module.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/external/wpmu-lib/changelog.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/external/wpmu-lib/core.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/external/wpmu-lib/css/animate.3.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/external/wpmu-lib/css/animate.3.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/external/wpmu-lib/css/fontawesome.3.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/external/wpmu-lib/css/fontawesome.3.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/external/wpmu-lib/css/jquery-ui.wpmui.3.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/external/wpmu-lib/css/jquery-ui.wpmui.3.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/external/wpmu-lib/css/select2.3.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/external/wpmu-lib/css/select2.3.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/external/wpmu-lib/css/wpmu-card-list.3.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/external/wpmu-lib/css/wpmu-card-list.3.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/external/wpmu-lib/css/wpmu-html.3.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/external/wpmu-lib/css/wpmu-html.3.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/external/wpmu-lib/css/wpmu-ui.3.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/external/wpmu-lib/css/wpmu-ui.3.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/external/wpmu-lib/css/wpmu-vnav.3.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/external/wpmu-lib/css/wpmu-vnav.3.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/external/wpmu-lib/fonts/FontAwesome440.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/external/wpmu-lib/fonts/fontawesome440-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/external/wpmu-lib/fonts/fontawesome440-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/external/wpmu-lib/fonts/fontawesome440-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/external/wpmu-lib/fonts/fontawesome440-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/external/wpmu-lib/fonts/fontawesome440-webfont.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/external/wpmu-lib/img/jquery-ui/ui-bg_flat_0_aaaaaa_40x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/external/wpmu-lib/img/jquery-ui/ui-bg_flat_0_f4fff4_40x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/external/wpmu-lib/img/jquery-ui/ui-bg_flat_0_fff4f4_40x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/external/wpmu-lib/img/jquery-ui/ui-bg_flat_75_cccccc_40x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/external/wpmu-lib/img/jquery-ui/ui-bg_flat_75_ffffff_40x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/external/wpmu-lib/img/jquery-ui/ui-bg_highlight-hard_65_ffffff_1x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/external/wpmu-lib/img/jquery-ui/ui-bg_highlight-hard_75_dadada_1x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/external/wpmu-lib/img/jquery-ui/ui-bg_highlight-hard_75_e6e6e6_1x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/external/wpmu-lib/img/jquery-ui/ui-icons_222222_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/external/wpmu-lib/img/jquery-ui/ui-icons_454545_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/external/wpmu-lib/img/jquery-ui/ui-icons_484_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/external/wpmu-lib/img/jquery-ui/ui-icons_888888_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/external/wpmu-lib/img/jquery-ui/ui-icons_A44_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/external/wpmu-lib/img/select2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/external/wpmu-lib/img/select2x2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/external/wpmu-lib/img/spinner.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/external/wpmu-lib/inc/class-thelib-array.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/external/wpmu-lib/inc/class-thelib-core.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/external/wpmu-lib/inc/class-thelib-debug.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/external/wpmu-lib/inc/class-thelib-html.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/external/wpmu-lib/inc/class-thelib-net.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/external/wpmu-lib/inc/class-thelib-session.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/external/wpmu-lib/inc/class-thelib-ui.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/external/wpmu-lib/inc/class-thelib-updates.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/external/wpmu-lib/inc/class-thelib.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/external/wpmu-lib/js/select2.3.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/external/wpmu-lib/js/select2.3.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/external/wpmu-lib/js/wpmu-card-list.3.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/external/wpmu-lib/js/wpmu-card-list.3.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/external/wpmu-lib/js/wpmu-ui.3.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/external/wpmu-lib/js/wpmu-ui.3.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/external/wpmu-lib/js/wpmu-vnav.3.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/external/wpmu-lib/js/wpmu-vnav.3.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/external/wpmu-lib/license.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/external/wpmu-lib/view/list.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/inc/external/wpmu-lib/view/pointer.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/js/cs-cloning.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/js/cs-cloning.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/js/cs-visibility.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/js/cs-visibility.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/js/cs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/js/cs.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/lang/custom-sidebars-de_DE.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/lang/custom-sidebars-de_DE.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/lang/custom-sidebars-en_EN.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/lang/custom-sidebars-en_EN.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/lang/custom-sidebars-es_ES.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/lang/custom-sidebars-es_ES.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/lang/custom-sidebars-fr_FR.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/lang/custom-sidebars-fr_FR.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/lang/custom-sidebars-he_IL.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/lang/custom-sidebars-he_IL.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/lang/custom-sidebars-it_IT.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/lang/custom-sidebars-it_IT.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/lang/custom-sidebars-nl_NL.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/lang/custom-sidebars-nl_NL.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/lang/custom-sidebars-pl_PL.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/lang/custom-sidebars-pl_PL.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/lang/custom-sidebars.pot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/license.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/views/bulk-edit.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/views/col-sidebars.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/views/import.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/views/metabox.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/views/quick-edit.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/views/widgets-delete.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/views/widgets-editor.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/views/widgets-export.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/views/widgets-location.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-sidebars/views/widgets.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/assets/css/admin/admin.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/assets/css/admin/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/assets/css/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/assets/images/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/assets/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/assets/js/admin/admin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/assets/js/admin/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/assets/js/admin/metabox-accordion.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/assets/js/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/class-easy-custom-sidebars.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/easy-custom-sidebars.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/includes/admin/class-ecs-admin-controller.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/includes/admin/class-ecs-admin.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/includes/admin/class-ecs-ajax.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/includes/admin/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/includes/admin/walker/class-ecs-walker-checklist.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/includes/admin/walker/class-ecs-walker-edit.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/includes/admin/walker/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/includes/frontend/class-ecs-frontend.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/includes/frontend/class-ecs-posttype.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/includes/frontend/class-ecs-widget-areas.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/includes/frontend/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/includes/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/languages/easy-custom-sidebars-en.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/languages/easy-custom-sidebars-en.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/languages/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/uninstall.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/views/admin-page/advanced-screen.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/views/admin-page/create-screen.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/views/admin-page/dialog-deleted.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/views/admin-page/dialog-updated.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/views/admin-page/edit-screen.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/views/admin-page/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/views/admin-page/manage-control-form.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/views/admin-page/manage-screen.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/views/admin-page/nonces.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/views/admin-page/page-end.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/views/admin-page/page-start.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/views/admin-page/tabs.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-custom-sidebars/views/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/blogdolucas/assets/css/bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/blogdolucas/assets/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/blogdolucas/assets/css/bootstrap.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/blogdolucas/assets/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/blogdolucas/assets/css/bootstrap.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/blogdolucas/assets/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/blogdolucas/assets/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/blogdolucas/assets/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/blogdolucas/assets/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/blogdolucas/assets/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/blogdolucas/assets/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/blogdolucas/assets/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/blogdolucas/assets/js/jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/blogdolucas/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/blogdolucas/style.css" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/bootstrap-basic/archive-jogos.php" afterPath="$PROJECT_DIR$/wp-content/themes/bootstrap-basic/archive-jogos.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/bootstrap-basic/functions.php" afterPath="$PROJECT_DIR$/wp-content/themes/bootstrap-basic/functions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/bootstrap-basic/header-jogos.php" afterPath="$PROJECT_DIR$/wp-content/themes/bootstrap-basic/header-jogos.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/bootstrap-basic/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/bootstrap-basic/style.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -200,8 +17,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/bootstrap-basic/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="42" lean-forward="false" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+            <state relative-caret-position="153">
+              <caret line="9" column="72" lean-forward="false" selection-start-line="9" selection-start-column="72" selection-end-line="9" selection-end-column="72" />
               <folding />
             </state>
           </provider>
@@ -483,12 +300,12 @@
       <workItem from="1507702716350" duration="595000" />
       <workItem from="1507865926598" duration="10317000" />
       <workItem from="1508130289967" duration="2810000" />
-      <workItem from="1508214755900" duration="674000" />
+      <workItem from="1508214755900" duration="945000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45378000" />
+    <option name="totallyTimeSpent" value="45649000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1932" height="1056" extended-state="0" />
@@ -897,8 +714,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/bootstrap-basic/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="42" lean-forward="false" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+        <state relative-caret-position="153">
+          <caret line="9" column="72" lean-forward="false" selection-start-line="9" selection-start-column="72" selection-end-line="9" selection-end-column="72" />
           <folding />
         </state>
       </provider>
