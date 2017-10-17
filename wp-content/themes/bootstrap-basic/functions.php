@@ -103,6 +103,8 @@ add_action('widgets_init', 'sideBarJogos');
 
 
 
+
+
 if (!function_exists('bootstrapBasicEnqueueScripts')) {
     /**
      * Enqueue scripts & styles

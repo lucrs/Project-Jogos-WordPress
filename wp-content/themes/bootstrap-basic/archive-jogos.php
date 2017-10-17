@@ -84,7 +84,7 @@ $main_column_size = bootstrapBasicGetMainColumnSize();
 							the_post();
                             echo "<div class='test' style='color: gray;'>";
                             get_template_part('adicionais');
-                            echo "<div class='col-md-4 img'>";the_post_thumbnail(array(250,400)); echo "</div>";
+                            echo "<div class='col-md-4 img'>";the_post_thumbnail('medium'); echo "</div>";
 
 							/* Include the Post-Format-specific template for the content.
 							 * If you want to override this in a child theme, then include a file
