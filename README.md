@@ -1,3 +1,3 @@
 # wordpress
 
-Site para fins de estudos.
+Site de Jogos Para fins de estudo utilizando php 5.6.
